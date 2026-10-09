@@ -175,3 +175,7 @@ app/                          # Expo project root
 6. **No image upload in chat** — Camera button shows "Coming Soon" alert
 7. **No offline support** — Requires network for auth, feed, and chat
 8. **No haptic feedback** — Not implemented
+
+---
+
+Built by [Augusta Bhardwaj](https://4ugusta.dev). More projects and writing at [4ugusta.dev](https://4ugusta.dev).
